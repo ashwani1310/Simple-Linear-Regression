@@ -11,3 +11,5 @@ Requirements:
     4) sklearn
 
 The python implementation uses the sklearn library to build a regression model which is trained with the training set. The graph for the regression line is plotted against the original data values.
+
+Before using the dataset, the data preprocessing is done. 
